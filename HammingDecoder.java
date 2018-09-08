@@ -3,7 +3,7 @@
  * HammingDecoder.java
  * @author Ilia Rad Saadat
  *
- * This class uses the Hamming (7,4) to decode and code 4 bit-squenses and
+ * This class uses the Hamming (7,4) to decode and code 4 bit-squenses, and to
  * find mistakes.
  * It creates new matrices of the sequence and given standard matrices.
  * It will then find the right position where the mistake occured
