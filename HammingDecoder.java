@@ -8,7 +8,7 @@
  * It creates new matrices of the sequence and given standard matrices.
  * It will then find the right position where the mistake occured
  * and switch the bit.
- * This is part of an solution to a math exercise.
+ * This is part of a solution to a math exercise.
  */
 public class HammingDecoder {
     private final int bitSequence = 4;
